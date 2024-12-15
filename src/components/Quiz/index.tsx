@@ -1,4 +1,4 @@
-import { useReducer, useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import phrases from "../../assets/phrases.json";
 import Feminine from "../../assets/Feminine.png";
 import Masculine from "../../assets/Masculine.png";
