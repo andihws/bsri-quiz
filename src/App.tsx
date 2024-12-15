@@ -5,7 +5,6 @@ import Quiz from "./components/Quiz";
 
 const App = () => {
   return (
-      
     <> 
       <Header/>
       <Switch>
